@@ -1,5 +1,5 @@
-#####MOVIE-GENRE-CLASSIFICATION
-##Import Libraries:
+MOVIE-GENRE-CLASSIFICATION
+Import Libraries:
 Import necessary libraries such as pandas, matplotlib, seaborn, nltk, string, and relevant modules from sklearn.
 
 Load Training Data:
